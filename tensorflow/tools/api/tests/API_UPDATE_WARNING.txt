@@ -1,5 +1,5 @@
 Golden file update requested!
-All test failures have been skipped, see the logs for detected diffs.
+All test failures have been skipped, see the logs for detected diffs and history.
 This test is now going to write new golden files.
 Make sure to package the updates together with your change.
 
